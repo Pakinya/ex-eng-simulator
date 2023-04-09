@@ -51,3 +51,4 @@ To add extra language support U need:
 Continuation:
 [$root/src/router/guards/languageSupportGuard.ts](https://github.com/Pakinya/ex-eng-simulator/blob/main/Tmp.md)
 
+***Changes from anna***

@@ -54,3 +54,9 @@ For stylelint in Visual studio code U need append properties to [$root/.vscode/s
   "css.validate": false,
   "scss.validate": false,
 ```
+
+
+
+Внесенные изменения
+
+Внесены изменения 2
