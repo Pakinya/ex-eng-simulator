@@ -58,3 +58,5 @@ For stylelint in Visual studio code U need append properties to [$root/.vscode/s
 
 
 Внесенные изменения
+
+Внесены изменения 2
